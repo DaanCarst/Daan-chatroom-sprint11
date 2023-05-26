@@ -133,3 +133,8 @@ body {
     padding-left: 1rem;
     color: red;
   }
+
+  .logo {
+    width: 12em;
+    margin-top: 1em;
+  }
